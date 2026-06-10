@@ -1,3 +1,6 @@
+print("Hola desde la carpeta tortuga")
+
+
 import turtle  # Importa la librería
 
 t = turtle.Turtle()  # Crea la “tortuga”
