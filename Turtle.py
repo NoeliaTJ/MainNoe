@@ -1,4 +1,3 @@
-print("Hola desde la carpeta tortuga")
 
 
 import turtle  # Importa la librería
