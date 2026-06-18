@@ -51,7 +51,7 @@ Para ejecutar los scripts necesitas:
 
 - Python 3.8 o superior instalado en tu sistema.
 - Opcional:  
-  - Un editor de código (VS Code, PyCharm, etc.).  
+  - Un editor de código (VS Code, Spyder, PyCharm, el que más te guste, hay un montón de opciones!).  
   - Jupyter Notebook / JupyterLab para los archivos `.ipynb`.
 
 ## Cómo ejecutar los ejercicios
