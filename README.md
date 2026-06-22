@@ -22,26 +22,29 @@ Cada archivo `.py` o `.ipynb` contiene ejemplos cortos centrados en un concepto 
 - `def_preorden`  
   Definición y uso de funciones (`def`), orden de parámetros y ejemplos de reutilización de código.
 
-- `if_elif_else`, `if_mensaje`, `if_verdadero_o_falso`  
+- IfElifElse, IfMensaje, IfVerdaderoOfalso  
   Condicionales en Python con `if`, `elif` y `else`: evaluación de expresiones lógicas y diferentes flujos según la condición.
 
-- `input_leer`  
+- InputLeer 
   Lectura de datos por teclado con `input()`, conversión de tipos y validaciones sencillas.
 
-- `peliculas`  
+- Peliculas
   Ejercicios de manejo de listas y estructuras de datos usando ejemplos de películas (búsqueda, filtrado, etc.).
 
-- `turtle`  
-  Ejemplos usando el módulo `turtle` para dibujar en pantalla y practicar coordenadas y bucles.
+- Turtle / Tortuguita 
+  Ejemplos usando el módulo `turtle` / Tortuguita para dibujar en pantalla y practicar coordenadas y bucles.
 
-- `presentacion`  
+- Presentacion 
   Script de presentación/introducción, por ejemplo para mostrar datos personales o resumen del proyecto.
 
-- `uso_basico`  
+- UsoBasico 
   Ejemplos generales de uso básico de Python que no encajan en una categoría concreta.
 
-- Notebooks `.ipynb`  
+- Notebooks.ipynb 
   Versiones interactivas de algunos ejercicios, pensadas para ejecutarse en Jupyter Notebook o JupyterLab.
+
+- 'Mandala'
+  Una nueva versión de nuestra amiga 'Tortuguita' que en este caso puede crear un mandala sencillo simplemente creando un bucle.
 
 > Los nombres de los archivos pueden variar ligeramente, pero la idea es que cada uno se centre en un concepto básico de Python.
 
